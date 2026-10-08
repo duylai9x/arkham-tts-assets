@@ -1,0 +1,106 @@
+{
+ "campaign": "the-forgotten-age",
+ "scenario": "5-heart-of-the-elders-part-1",
+ "title": "Heart of the Elders Part 1",
+ "order": "5",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 64.1,
+   "hash": "a253a8b38b27fa84b2b397d2eda0322aaadd2dc63d26ec92c3b8023fe00ca437"
+  },
+  {
+   "id": "int-1-2",
+   "label": "MỞ ĐẦU · 2",
+   "file": "int-1-2.mp3",
+   "seconds": 38.7,
+   "hash": "010b32fe31139ea15a765f5f917f9fe4409544c0cb0bfeee7977feee3a02805e"
+  },
+  {
+   "id": "int-1-3",
+   "label": "MỞ ĐẦU · 3",
+   "file": "int-1-3.mp3",
+   "seconds": 38.1,
+   "hash": "c6371710788aa1bb2d5e696c4f04d32ef1060fbee987f03079641e5a2f8f0a7f"
+  },
+  {
+   "id": "int-1-4",
+   "label": "MỞ ĐẦU · 4",
+   "file": "int-1-4.mp3",
+   "seconds": 38.6,
+   "hash": "fada91c6fe090c0a9cca9271a5c53fe4bb8e4c94d542f290bb36f56610e0d4db"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 49.0,
+   "hash": "29f4f6f375f31e4c1547ce624d17f5e5c81625e17a5d5caa0172cfed8c0a52cd"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 46.0,
+   "hash": "c9d6adffa8f0318b20e02f9725c45a98ad62fe1588b9400b459b4639a4c00ab7"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 31.2,
+   "hash": "d238d551404ce10b1bf82e3a783f1c152638098ab096f9c9a5663ade5787af16"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 51.5,
+   "hash": "bdc1365f4de514400ee6e7d0487942bdc00963c3be6f1c77106e59867612b2e2"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 56.4,
+   "hash": "d11219c283385f015f542bd66bbcfcad5304d78b5a1a0128b687ec25d5462774"
+  },
+  {
+   "id": "act-1b",
+   "label": "ACT 1b",
+   "file": "act-1b.mp3",
+   "seconds": 58.0,
+   "hash": "f158f9bc8254f3a7220a54f0d6f55c23cf7e8c12114bb8aae0854412d46f4363"
+  },
+  {
+   "id": "act-2a",
+   "label": "ACT 2a",
+   "file": "act-2a.mp3",
+   "seconds": 49.9,
+   "hash": "2cc3f799bd7af4acefe2653b51ef1213ba1c7c3a0a3cc21ab0ab2552836fc345"
+  },
+  {
+   "id": "act-2b",
+   "label": "ACT 2b",
+   "file": "act-2b.mp3",
+   "seconds": 44.3,
+   "hash": "1dd2bfbb37dbc32f586a973526aa9b6d17e7c97e1cbbac08a5975cd0890da537"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 55.4,
+   "hash": "f6d00b0d63c47e854af26ba8940191454cccb223beb65a696830e25e34b6f444"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "file": "res-none.mp3",
+   "seconds": 28.9,
+   "hash": "f0549d289d31e23e5354dff07ecd0dc9df5b0b6d564a94856981e7158a53aa4b"
+  }
+ ]
+}

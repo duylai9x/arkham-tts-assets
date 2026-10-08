@@ -1,0 +1,251 @@
+{
+ "campaign": "the-forgotten-age",
+ "scenario": "7-the-depths-of-yoth",
+ "title": "The Depths of Yoth",
+ "order": "7",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 94.0,
+   "hash": "37be3ff96192725fe5e4ea845c6bdba2620698620a12671b6b46ae395fd54caa"
+  },
+  {
+   "id": "int-1-2",
+   "label": "MỞ ĐẦU · 2",
+   "file": "int-1-2.mp3",
+   "seconds": 54.5,
+   "hash": "0fff5e8a889b7b04cab1c46617a49b42fa9705c18812925ffe545b53fb35de7e"
+  },
+  {
+   "id": "int-1-3",
+   "label": "MỞ ĐẦU · 3",
+   "file": "int-1-3.mp3",
+   "seconds": 77.0,
+   "hash": "3892e5c0071a603ebb01d391741f9cec46dbb68bc95eb6bbb34ba623f63c4e8c"
+  },
+  {
+   "id": "int-1-4",
+   "label": "MỞ ĐẦU · 4",
+   "file": "int-1-4.mp3",
+   "seconds": 30.2,
+   "hash": "83ffa350fa9a148640aa1486ff3bb2f5e51d3e1c4a432cd19f2a90de4c1f646b"
+  },
+  {
+   "id": "int-1-5",
+   "label": "MỞ ĐẦU · 5",
+   "file": "int-1-5.mp3",
+   "seconds": 58.1,
+   "hash": "27f6be832ac24145cd2158c0a8c350bac186125870a02945b74f522b79f9f4b7"
+  },
+  {
+   "id": "int-1-6",
+   "label": "MỞ ĐẦU · 6",
+   "file": "int-1-6.mp3",
+   "seconds": 37.7,
+   "hash": "dff97ea26565bfdc5debe10c0257c98519ae85eb032f2bf7d1bb9f57ad7dd424"
+  },
+  {
+   "id": "int-1-7",
+   "label": "MỞ ĐẦU · 7",
+   "file": "int-1-7.mp3",
+   "seconds": 39.4,
+   "hash": "353972ae82eda7d9ad8b2a11d5f4e5b41a79a448b5468ef20b910ed06835eb02"
+  },
+  {
+   "id": "int-1-8",
+   "label": "MỞ ĐẦU · 8",
+   "file": "int-1-8.mp3",
+   "seconds": 41.2,
+   "hash": "1401033d716cdf55468c87214233cb15dfacd3e2b93ae63dda33d0f0fbf47d13"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 30.1,
+   "hash": "b4eafcc87910c3ff93768787f7e719bb5c77f9585fda6a2cbb34f53f50f321db"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 37.1,
+   "hash": "6a531cf55ccfa31fc8283ac5d10f387475398a36c5f918ddfa0b2d5c6198ba86"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 34.9,
+   "hash": "bfa3047faa7651107aa040871e433164e2847399f3cc37932d4e2f75caf9416e"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 31.0,
+   "hash": "93780e1cbf32cae9d2f1e2818a7a4274330b9edd6e35b8c4bb59a2b395b610e6"
+  },
+  {
+   "id": "agd-3a",
+   "label": "AGD 3a",
+   "file": "agd-3a.mp3",
+   "seconds": 36.2,
+   "hash": "ab488374585d9bc79c74ed4f32bfd173765f8869c25f92639aa0618b40bd8faf"
+  },
+  {
+   "id": "agd-3b",
+   "label": "AGD 3b",
+   "file": "agd-3b.mp3",
+   "seconds": 29.5,
+   "hash": "0385b4ed7665d0d436405df1e71cad872c8e26c87f5a56dc83e168dd13be0228"
+  },
+  {
+   "id": "agd-4a",
+   "label": "AGD 4a",
+   "file": "agd-4a.mp3",
+   "seconds": 35.2,
+   "hash": "e0c3895943f980fa696442a8de61b5c58ef688b911bd8549ed2eb659ef8907af"
+  },
+  {
+   "id": "agd-4b",
+   "label": "AGD 4b",
+   "file": "agd-4b.mp3",
+   "seconds": 46.1,
+   "hash": "ed2a4a5729b58f1d1e448197bf9025ae8136ab31188b616964b3ef3778ad378e"
+  },
+  {
+   "id": "agd-5a",
+   "label": "AGD 5a",
+   "file": "agd-5a.mp3",
+   "seconds": 34.5,
+   "hash": "012d361a6687ba5908faf1556f98f6655384cab015dde6e567c9898125e3b533"
+  },
+  {
+   "id": "agd-5b",
+   "label": "AGD 5b",
+   "file": "agd-5b.mp3",
+   "seconds": 32.1,
+   "hash": "2102dd0c96fba0d8ed2de8225b217503aa563b3623813c2617b65401e89ccf74"
+  },
+  {
+   "id": "agd-6a",
+   "label": "AGD 6a",
+   "file": "agd-6a.mp3",
+   "seconds": 24.9,
+   "hash": "86523fc57d5e4a0b2541508edeb53271d03600bfb46676a36d4423710bbe305c"
+  },
+  {
+   "id": "agd-6b",
+   "label": "AGD 6b",
+   "file": "agd-6b.mp3",
+   "seconds": 26.5,
+   "hash": "4825fe1895af57e0185ba69843b63dedd900b19fb5d414f7a4d035f2aafe0d06"
+  },
+  {
+   "id": "agd-7a",
+   "label": "AGD 7a",
+   "file": "agd-7a.mp3",
+   "seconds": 27.0,
+   "hash": "0f03ec4b0bdd65f8c7e54c973f046ab708f35cd73333cfbf135afa9667162af4"
+  },
+  {
+   "id": "agd-7b",
+   "label": "AGD 7b",
+   "file": "agd-7b.mp3",
+   "seconds": 51.4,
+   "hash": "5cb90b41cb3124a87403e56134a408b8f64d30d37ee08ce4342d5b69ba310923"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 46.4,
+   "hash": "2c1dbde1f65ce16caf0c452b095f1a36593aee9c22eab0e26afa95736d00b181"
+  },
+  {
+   "id": "act-1b",
+   "label": "ACT 1b",
+   "file": "act-1b.mp3",
+   "seconds": 49.2,
+   "hash": "99b74b99800020225ff5edbeaae471fed8abb58f403a8e06815dd5e9461f8057"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 89.2,
+   "hash": "45afd2f7896d67272cd1119163d7f3e7a46520c26b56e26363d2c4f68726aae3"
+  },
+  {
+   "id": "res-2",
+   "label": "RES 2",
+   "file": "res-2.mp3",
+   "seconds": 22.3,
+   "hash": "8e42ad10a135b3f7addf33fbc6ca05060f7c5f506df9b5a934eca8bcf7ba6a8c"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "alias": "res-1"
+  },
+  {
+   "id": "interlude-5-d1",
+   "label": "INTERLUDE 5 · D1",
+   "file": "interlude-5-d1.mp3",
+   "seconds": 32.5,
+   "hash": "3dc0c69cb79ce13ce5b7ce23e8965a39603bbc44aeb091d10b9a983960bc185d"
+  },
+  {
+   "id": "interlude-5-d2",
+   "label": "INTERLUDE 5 · D2",
+   "file": "interlude-5-d2.mp3",
+   "seconds": 114.9,
+   "hash": "0efb26b0c57cbd2f6109ec0310903a02de23dfc912e524dde8852891cf700684"
+  },
+  {
+   "id": "interlude-5-relic-found",
+   "label": "INTERLUDE 5 · RELIC-FOUND",
+   "file": "interlude-5-relic-found.mp3",
+   "seconds": 67.0,
+   "hash": "7b599cce99f7d1e084be9cfe0a090ce7e96381b025961a68e82c90b2cb851d3c"
+  },
+  {
+   "id": "interlude-5-relic-missing",
+   "label": "INTERLUDE 5 · RELIC-MISSING",
+   "file": "interlude-5-relic-missing.mp3",
+   "seconds": 11.1,
+   "hash": "fc498f632a31b7c9aedac7fcf57752bab2cbc3a2c8585fba6183e888fbf4706d"
+  },
+  {
+   "id": "interlude-5-d3",
+   "label": "INTERLUDE 5 · D3",
+   "file": "interlude-5-d3.mp3",
+   "seconds": 10.7,
+   "hash": "8156abdc88afb377b63b5f0596b5de48e91c04d19f8e9fc947f04e57efa60454"
+  },
+  {
+   "id": "interlude-5-brazier-lit",
+   "label": "INTERLUDE 5 · BRAZIER-LIT",
+   "file": "interlude-5-brazier-lit.mp3",
+   "seconds": 42.8,
+   "hash": "f5b36da18ca4a565961afcc559f0daf7fb8f6a0b88ec1c1b28003ecfb726c259"
+  },
+  {
+   "id": "interlude-5-brazier-unlit",
+   "label": "INTERLUDE 5 · BRAZIER-UNLIT",
+   "file": "interlude-5-brazier-unlit.mp3",
+   "seconds": 18.6,
+   "hash": "221effcfe6db2a78ba372f9df5bcc9c7d286dccfeaa2e179c6f5dc03c4e58da7"
+  },
+  {
+   "id": "interlude-5-d4",
+   "label": "INTERLUDE 5 · D4",
+   "file": "interlude-5-d4.mp3",
+   "seconds": 43.9,
+   "hash": "5eb877dae238ee77341921a25d25795bb7f5d95b84983501239741b82ac1c033"
+  }
+ ]
+}

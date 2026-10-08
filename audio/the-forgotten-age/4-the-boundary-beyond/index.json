@@ -1,0 +1,232 @@
+{
+ "campaign": "the-forgotten-age",
+ "scenario": "4-the-boundary-beyond",
+ "title": "The Boundary Beyond",
+ "order": "4",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 75.2,
+   "hash": "ee8cc416d3103414e5cd539bab812db5755ee0311af5c8735ed7c0b707b61f9f"
+  },
+  {
+   "id": "int-1-bond",
+   "label": "MỞ ĐẦU · BOND",
+   "file": "int-1-bond.mp3",
+   "seconds": 34.7,
+   "hash": "7b90bb8326b5bdb8cfb92217cb2a460fb01b8f485ad8936ad9859d75de8fd142"
+  },
+  {
+   "id": "int-1-no-bond",
+   "label": "MỞ ĐẦU · NO-BOND",
+   "file": "int-1-no-bond.mp3",
+   "seconds": 16.6,
+   "hash": "e74a30f20c0a6db1c60e5c359bc328df55f44959c790fce37e59258fddea6daa"
+  },
+  {
+   "id": "int-1-relic-kept",
+   "label": "MỞ ĐẦU · RELIC-KEPT",
+   "file": "int-1-relic-kept.mp3",
+   "seconds": 21.5,
+   "hash": "5e455e0f9f2ea64a10ddad33782404cb4e4d1030f8a37d11fb8eb98aa221b789"
+  },
+  {
+   "id": "int-1-relic-lost",
+   "label": "MỞ ĐẦU · RELIC-LOST",
+   "file": "int-1-relic-lost.mp3",
+   "seconds": 19.9,
+   "hash": "56f801ac0c4983c655c8bfe86b73310771d68a5fc3b5130da187e91b55b583ee"
+  },
+  {
+   "id": "int-1-alejandro-here",
+   "label": "MỞ ĐẦU · ALEJANDRO-HERE",
+   "file": "int-1-alejandro-here.mp3",
+   "seconds": 90.8,
+   "hash": "38a2769f938c47de7115a2bb576b5d86880868bdd8dfbf55b9c87678b305af64"
+  },
+  {
+   "id": "int-1-alejandro-gone",
+   "label": "MỞ ĐẦU · ALEJANDRO-GONE",
+   "file": "int-1-alejandro-gone.mp3",
+   "seconds": 38.2,
+   "hash": "848a865c43fcd97f71a695ed368b8d2b36da9388682796316ef55fd0692c80a6"
+  },
+  {
+   "id": "int-1-padma",
+   "label": "MỞ ĐẦU · PADMA",
+   "file": "int-1-padma.mp3",
+   "seconds": 136.1,
+   "hash": "278f93dedf3ee4a1a0ca68d78455eafa8be2cca3416d66c7d3d2c7face636f4a"
+  },
+  {
+   "id": "int-1-eve",
+   "label": "MỞ ĐẦU · EVE",
+   "file": "int-1-eve.mp3",
+   "seconds": 48.4,
+   "hash": "0f5c5e90dabdd0225c0ed34fda10c18fe5388f52cd8215b2825680ecb8cd5d0c"
+  },
+  {
+   "id": "agd-3a",
+   "label": "AGD 3a",
+   "file": "agd-3a.mp3",
+   "seconds": 49.5,
+   "hash": "ef18555dc04b03c2ddaa2813dab325b5933f3c453e6302eff2ad205df3ae00f9"
+  },
+  {
+   "id": "agd-3b",
+   "label": "AGD 3b",
+   "file": "agd-3b.mp3",
+   "seconds": 56.2,
+   "hash": "02fb12644e4ffc067871cabe144e5c9e066bcfa0356d771fe215d7e2712e80b9"
+  },
+  {
+   "id": "agd2-1a",
+   "label": "AGD 1a",
+   "file": "agd2-1a.mp3",
+   "seconds": 41.5,
+   "hash": "14c97ff47cdcf269434bc832e53c7b294097d0079efffa292eb6ba956d465112"
+  },
+  {
+   "id": "agd2-1b",
+   "label": "AGD 1b",
+   "file": "agd2-1b.mp3",
+   "seconds": 28.0,
+   "hash": "2f58f89666070f3ede187c7524a5b5477bb3be06edd4d2b736b0f34c3c2d94c2"
+  },
+  {
+   "id": "agd2-2a",
+   "label": "AGD 2a",
+   "file": "agd2-2a.mp3",
+   "seconds": 36.8,
+   "hash": "fadff012fd8866d59486497fb9836b53aca370652bbc55efe7871e1b29368a99"
+  },
+  {
+   "id": "agd2-2b",
+   "label": "AGD 2b",
+   "file": "agd2-2b.mp3",
+   "seconds": 51.2,
+   "hash": "cd5b8d7a3156dc65434247f34c5de661c607b62e1d2b4559b0ef4ba2b8a165bb"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 63.9,
+   "hash": "0eb347dcb7ef07195ff86e68d28ec4c66953b37b82a0099e11d2b3ce3705f40e"
+  },
+  {
+   "id": "act-1b",
+   "label": "ACT 1b",
+   "file": "act-1b.mp3",
+   "seconds": 68.3,
+   "hash": "d846e84e710c9ce526e2f7b978c6b2a673d4c1c87cc5c5276344fe740aef560f"
+  },
+  {
+   "id": "act-2a",
+   "label": "ACT 2a",
+   "file": "act-2a.mp3",
+   "seconds": 53.4,
+   "hash": "21920c9d0bfacf59d1e7d4508261810d2aa8701767a7609100ceaa518bf7eca4"
+  },
+  {
+   "id": "act-2b",
+   "label": "ACT 2b",
+   "file": "act-2b.mp3",
+   "seconds": 69.7,
+   "hash": "d5eed2d712258f92cb441bf01199721a67db8d3415378af6c0d1c3b5f62077c4"
+  },
+  {
+   "id": "act2-3a",
+   "label": "ACT 3a",
+   "file": "act2-3a.mp3",
+   "seconds": 53.6,
+   "hash": "b0c89603b1b8f529c6ef0aae018ace7e08fff195827f0ab8908e8e713509625f"
+  },
+  {
+   "id": "act2-3b",
+   "label": "ACT 3b",
+   "file": "act2-3b.mp3",
+   "seconds": 49.0,
+   "hash": "0a821209ff43ae8c5fc709ac4659f7e8a81bdb67adafdcf0c4f405b1c0f2c0ab"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 138.0,
+   "hash": "a7ac02ecc646463300557892fda61932bd339d879871902d2f048a632dee448f"
+  },
+  {
+   "id": "res-2",
+   "label": "RES 2",
+   "file": "res-2.mp3",
+   "seconds": 124.9,
+   "hash": "2cca1c60681598ffc69ab5937a93e54f145a368e54535fec2b27de246d6c7e54"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "file": "res-none.mp3",
+   "seconds": 127.8,
+   "hash": "9d8cf93e2b3bd13cf38a8514de19076c8f35f8e850a000b2b701ef199858f53c"
+  },
+  {
+   "id": "interlude-3",
+   "label": "INTERLUDE 3",
+   "file": "interlude-3.mp3",
+   "seconds": 32.1,
+   "hash": "d10f01da4378894357982cce43f7d3f75a09ae368fd4dfdec2c7c001120b8a2d"
+  },
+  {
+   "id": "interlude-3-map",
+   "label": "INTERLUDE 3 · MAP",
+   "file": "interlude-3-map.mp3",
+   "seconds": 13.3,
+   "hash": "0a881be9bc87e218fa910a0d0f7ea8f2d2072c56c35907394042d460ea0ad053"
+  },
+  {
+   "id": "interlude-3-no-gas",
+   "label": "INTERLUDE 3 · NO-GAS",
+   "file": "interlude-3-no-gas.mp3",
+   "seconds": 23.2,
+   "hash": "be1e49073536a3df71eb22a8962a6c8b315d82cdd1b5e53d2c5371530055f3fb"
+  },
+  {
+   "id": "interlude-3-low-rations",
+   "label": "INTERLUDE 3 · LOW-RATIONS",
+   "file": "interlude-3-low-rations.mp3",
+   "seconds": 17.5,
+   "hash": "5476d94f3e784249c22eb993212bd4f58652072222a78d8e13bc69f28bad7008"
+  },
+  {
+   "id": "interlude-3-poison",
+   "label": "INTERLUDE 3 · POISON",
+   "file": "interlude-3-poison.mp3",
+   "seconds": 17.3,
+   "hash": "bed35935b567e1cb80b91d58f6956e227c6e7e0b51e9bf29cce580f960342674"
+  },
+  {
+   "id": "interlude-3-glyphs-found",
+   "label": "INTERLUDE 3 · GLYPHS-FOUND",
+   "file": "interlude-3-glyphs-found.mp3",
+   "seconds": 41.4,
+   "hash": "0e2f9b395875fa78453aa58757fe0e81ef0bd16ff8e5f7c9f0462e988207df4f"
+  },
+  {
+   "id": "interlude-3-glyphs-missed",
+   "label": "INTERLUDE 3 · GLYPHS-MISSED",
+   "file": "interlude-3-glyphs-missed.mp3",
+   "seconds": 12.4,
+   "hash": "2993ac218cf7cf2f2e4f984c3f2530a8238ea9f8131220edcb3397b87662c785"
+  },
+  {
+   "id": "interlude-3-campfire",
+   "label": "INTERLUDE 3 · CAMPFIRE",
+   "file": "interlude-3-campfire.mp3",
+   "seconds": 74.1,
+   "hash": "097534c4030a9b3d8b923c860fb86e898493079f87bfaad5cd288cb22006daea"
+  }
+ ]
+}

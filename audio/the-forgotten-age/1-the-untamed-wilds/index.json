@@ -1,0 +1,176 @@
+{
+ "campaign": "the-forgotten-age",
+ "scenario": "1-the-untamed-wilds",
+ "title": "The Untamed Wilds",
+ "order": "1",
+ "clips": [
+  {
+   "id": "prologue",
+   "label": "PROLOGUE",
+   "file": "prologue.mp3",
+   "seconds": 150.8,
+   "hash": "49668be669157c6a6b94d1bfc6acbbbae508720e91d8730e638b6df8681451cd"
+  },
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 99.3,
+   "hash": "272c24026df8d09cc91410f2adcf6c97208a6dc08d9abc9639709cd59d867a2a"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 30.2,
+   "hash": "e72ce77a59da2432f45231d8a4683d70cf5c3a6bbdb636b1836a4a4ec5fb1d6f"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 59.4,
+   "hash": "ef0551116fbbd0e8ff65317b137b73cc670244ad6ac7f31292e131181c21ad44"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 18.4,
+   "hash": "35a8663a2d4050434aebeaf10401302f4c3b5f53f0220f499722ae59973a8c71"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 36.2,
+   "hash": "d6ab6891a77bfa37e747cf3c4d0d50a0bd8fb7914ccf39d3268f866700baa532"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 24.2,
+   "hash": "2dbcc405fcba85e33e7a38b42f8cfa7abdd60c86a560d5518e4a33d4aec2ae19"
+  },
+  {
+   "id": "act-1b",
+   "label": "ACT 1b",
+   "file": "act-1b.mp3",
+   "seconds": 72.4,
+   "hash": "ebe5eb6bfc31332eb4b3f1d0095c92330f8507f66cad8b0c1f714966f7fc6124"
+  },
+  {
+   "id": "act-2a",
+   "label": "ACT 2a",
+   "file": "act-2a.mp3",
+   "seconds": 43.0,
+   "hash": "c9db276a9ef0bd1271a65dba91b92b964a49484ec84e7a8b7c7efdba716120aa"
+  },
+  {
+   "id": "act-2b-parley",
+   "label": "ACT 2b · PARLEY",
+   "file": "act-2b-parley.mp3",
+   "seconds": 16.7,
+   "hash": "cda474e88dd70325f67bc80d54a64b4c519e0f2ac48ba2ef1689b88ebea3e1b0"
+  },
+  {
+   "id": "act-2b-fight",
+   "label": "ACT 2b · FIGHT",
+   "file": "act-2b-fight.mp3",
+   "seconds": 14.5,
+   "hash": "d3071b88cdad86ec19796f3817d07465b52890912421b9641ac6296090e6415a"
+  },
+  {
+   "id": "act-3a-04048",
+   "label": "ACT 3a ·04048",
+   "file": "act-3a-04048.mp3",
+   "seconds": 32.3,
+   "hash": "48bb33287b284243828e9a3cc335ae4f64f41585b6b7bfb8fc856f8a08a461b1"
+  },
+  {
+   "id": "act-3b-04048",
+   "label": "ACT 3b ·04048",
+   "file": "act-3b-04048.mp3",
+   "seconds": 22.9,
+   "hash": "2972ba5421244909f05d223239db716f3ee3856e15196e7b912e6f65d797e162"
+  },
+  {
+   "id": "act-3a-04049",
+   "label": "ACT 3a ·04049",
+   "file": "act-3a-04049.mp3",
+   "seconds": 17.2,
+   "hash": "d67ad57bfb995df9bdc2596a49ce91e38735d62d3ac6bf189ea1737fbc1519ba"
+  },
+  {
+   "id": "act-3b-04049",
+   "label": "ACT 3b ·04049",
+   "file": "act-3b-04049.mp3",
+   "seconds": 22.9,
+   "hash": "2972ba5421244909f05d223239db716f3ee3856e15196e7b912e6f65d797e162"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 156.4,
+   "hash": "4e93ac13ede93ba3e6b63b719daf76d822b285161edeaaff16131862207b299c"
+  },
+  {
+   "id": "res-2",
+   "label": "RES 2",
+   "file": "res-2.mp3",
+   "seconds": 126.6,
+   "hash": "1c27259434fd433b2d60de6d6333c2989fe1f75c76ba066db297ecf8638bc5df"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "file": "res-none.mp3",
+   "seconds": 123.5,
+   "hash": "5776c878df7d1b6d0be66fe91f4a44f8f22fe4dd89c7664b608fe86434eb139e"
+  },
+  {
+   "id": "interlude-1-restful",
+   "label": "INTERLUDE 1 · RESTFUL",
+   "file": "interlude-1-restful.mp3",
+   "seconds": 25.4,
+   "hash": "23a494ea2e2c624e6dde1cac8d43f68bfd76d7c5de69030afcaabe951e0c246a"
+  },
+  {
+   "id": "interlude-1-tossing",
+   "label": "INTERLUDE 1 · TOSSING",
+   "file": "interlude-1-tossing.mp3",
+   "seconds": 42.8,
+   "hash": "6b81e2a096faa9658336ff9ae2b0f343127304e8540814ceafeaee5ad6f0f627"
+  },
+  {
+   "id": "interlude-1-shapes",
+   "label": "INTERLUDE 1 · SHAPES",
+   "file": "interlude-1-shapes.mp3",
+   "seconds": 29.7,
+   "hash": "4d3dec21396d031e765b2c59adeba8302f5092bad384bff83764bf31fa4238dc"
+  },
+  {
+   "id": "interlude-1-eyes",
+   "label": "INTERLUDE 1 · EYES",
+   "file": "interlude-1-eyes.mp3",
+   "seconds": 29.5,
+   "hash": "83ed42727acd59d6040aefca66da995d5510b271c4f46c1b3fd6e2927feae076"
+  },
+  {
+   "id": "interlude-1-rations",
+   "label": "INTERLUDE 1 · RATIONS",
+   "file": "interlude-1-rations.mp3",
+   "seconds": 15.8,
+   "hash": "3a3a71324a00d2a4243e63c3ae04a0e5fde99ef51ce8e4ca56ea1150c61984af"
+  },
+  {
+   "id": "interlude-1-poison",
+   "label": "INTERLUDE 1 · POISON",
+   "file": "interlude-1-poison.mp3",
+   "seconds": 15.5,
+   "hash": "552f41763cb15998144c7412af2fa44e367ba5e6fe300d86de9b15ec35fd904f"
+  }
+ ]
+}

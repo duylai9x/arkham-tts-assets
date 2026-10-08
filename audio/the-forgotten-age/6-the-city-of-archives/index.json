@@ -1,0 +1,197 @@
+{
+ "campaign": "the-forgotten-age",
+ "scenario": "6-the-city-of-archives",
+ "title": "The City of Archives",
+ "order": "6",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 127.1,
+   "hash": "53fc766f59d62fac74f82a213971314fe5a6f5bbcc0c8466a35f1777b6b557a5"
+  },
+  {
+   "id": "int-1-2",
+   "label": "MỞ ĐẦU · 2",
+   "file": "int-1-2.mp3",
+   "seconds": 62.7,
+   "hash": "5b31cf1ca6e67cafe74d03c6829f71e5b94ef598bb9dda0f7d6ce14ba97459bb"
+  },
+  {
+   "id": "int-1-3",
+   "label": "MỞ ĐẦU · 3",
+   "file": "int-1-3.mp3",
+   "seconds": 87.7,
+   "hash": "49f44fe92b5324b853730122a5cf609a44bedb8b09b8ff180062b19407a7d10b"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 65.1,
+   "hash": "380611d1e6a0fbb79cfa0b558f8585c506c1ee441b3ca9bb4693b0793bb97d1d"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 59.1,
+   "hash": "923255cd06b7ab6e46ce27d383989927559d205c01bebdf60b165cb58517051d"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 48.7,
+   "hash": "24bce7a4de92de0e0fec90421ca7821e61a19be5dce73cb322d091cbb274455d"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 63.1,
+   "hash": "1d095ce5789214b68836d317f762bc15bd58e1bf0773efd7a12e62d9f3ea81f8"
+  },
+  {
+   "id": "agd-3a",
+   "label": "AGD 3a",
+   "file": "agd-3a.mp3",
+   "seconds": 44.2,
+   "hash": "26eac51f3588022373e1e13e7f6f3d2867095cff2fee91da9dda062991593307"
+  },
+  {
+   "id": "agd-3b",
+   "label": "AGD 3b",
+   "file": "agd-3b.mp3",
+   "seconds": 71.5,
+   "hash": "b9b9ad5343e79b25baa23bb6f7f366d171256668692a719a8677e88367f7d025"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 17.5,
+   "hash": "9b7fab079a9468ae6cfd5e77b7fbf7ccbc61ba42e2eacc22baad80fb4fceca0c"
+  },
+  {
+   "id": "act-1b",
+   "label": "ACT 1b",
+   "file": "act-1b.mp3",
+   "seconds": 42.1,
+   "hash": "9c015bf22cacf733fc2e0da8773cf12afa6cf866e9efb1767d080e31fbee4ac6"
+  },
+  {
+   "id": "act-2a",
+   "label": "ACT 2a",
+   "file": "act-2a.mp3",
+   "seconds": 18.5,
+   "hash": "ec23b95b2e44bab4d85a0b04f453c7be289a72a3dd76ca27d627cf27be1ebc65"
+  },
+  {
+   "id": "act-2b",
+   "label": "ACT 2b",
+   "file": "act-2b.mp3",
+   "seconds": 22.0,
+   "hash": "646801e342370edffb5d156b383645f3994454a22f6b417e13b44918343a2516"
+  },
+  {
+   "id": "act-3a",
+   "label": "ACT 3a",
+   "file": "act-3a.mp3",
+   "seconds": 14.2,
+   "hash": "52b2a19d010e45c66bafe008e3e687cf99a4dcdb02d5208ab4ee78f59ecadd5b"
+  },
+  {
+   "id": "act-3b",
+   "label": "ACT 3b",
+   "file": "act-3b.mp3",
+   "seconds": 23.9,
+   "hash": "a209095a481e1ae142ab313ca002df3e582407c9c60241c1df1c9a511de9d551"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 9.1,
+   "hash": "3f80ac802902e3018fcc7e291ffc3591113c257f5f4973bb45ad16fd648af0d9"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "file": "res-none.mp3",
+   "seconds": 152.0,
+   "hash": "d89195baf5f5a06b83bd63c00b418e15252252287107b43e1f1149d3dcf623d6"
+  },
+  {
+   "id": "interlude-4-alejandro-ok",
+   "label": "INTERLUDE 4 · ALEJANDRO-OK",
+   "file": "interlude-4-alejandro-ok.mp3",
+   "seconds": 83.0,
+   "hash": "899f85596c733dff2ad2bccb36b6555df120099d0f7c5d1985a2e629cfe0aa69"
+  },
+  {
+   "id": "interlude-4-alejandro-mat",
+   "label": "INTERLUDE 4 · ALEJANDRO-MAT",
+   "file": "interlude-4-alejandro-mat.mp3",
+   "seconds": 21.8,
+   "hash": "516397a60e2bda8eb7d3bb773dd61ab8fa9838e7cea17c13197d1157ce3f30ea"
+  },
+  {
+   "id": "interlude-4-doi",
+   "label": "INTERLUDE 4 · DOI",
+   "file": "interlude-4-doi.mp3",
+   "seconds": 22.1,
+   "hash": "a152881c1cbf92f4955a3e5ffe5129b6c24ae680bc71d451f38be2e098dcae32"
+  },
+  {
+   "id": "interlude-4-cong-mo-dau",
+   "label": "INTERLUDE 4 · CONG-MO-DAU",
+   "file": "interlude-4-cong-mo-dau.mp3",
+   "seconds": 37.4,
+   "hash": "63e9074dfad4ba6e04204c0ad059f2dfa725d15ace3d72a62b89ea7791a33d23"
+  },
+  {
+   "id": "interlude-4-cong-giai-ky-hieu",
+   "label": "INTERLUDE 4 · CONG-GIAI-KY-HIEU",
+   "file": "interlude-4-cong-giai-ky-hieu.mp3",
+   "seconds": 25.9,
+   "hash": "3277ff0bfb7943d13ab82b03a1ab6156d3ca9c3ce068334dd688b705c42e8f97"
+  },
+  {
+   "id": "interlude-4-cong-dung-suc",
+   "label": "INTERLUDE 4 · CONG-DUNG-SUC",
+   "file": "interlude-4-cong-dung-suc.mp3",
+   "seconds": 23.0,
+   "hash": "cf21ec540ed5c0371bb40ad959a0c96b89e12de98fe65467464139f9913e4f04"
+  },
+  {
+   "id": "interlude-4-doc",
+   "label": "INTERLUDE 4 · DOC",
+   "file": "interlude-4-doc.mp3",
+   "seconds": 23.2,
+   "hash": "2c5e2a8ec351dc9307b62822963fabaa4768950dbfba8b227e29c9778f943a35"
+  },
+  {
+   "id": "interlude-4-nghi-mo-dau",
+   "label": "INTERLUDE 4 · NGHI-MO-DAU",
+   "file": "interlude-4-nghi-mo-dau.mp3",
+   "seconds": 24.5,
+   "hash": "21f59d847861c3203f9a0304103850c59a390362d7254f159abb9e0f22cb898d"
+  },
+  {
+   "id": "interlude-4-nghi-co-chan",
+   "label": "INTERLUDE 4 · NGHI-CO-CHAN",
+   "file": "interlude-4-nghi-co-chan.mp3",
+   "seconds": 19.7,
+   "hash": "191fbc0b3591524ca0f07a3dd8b2733ad04e509f6246452d2396700a4f1662a6"
+  },
+  {
+   "id": "interlude-4-nghi-lanh",
+   "label": "INTERLUDE 4 · NGHI-LANH",
+   "file": "interlude-4-nghi-lanh.mp3",
+   "seconds": 27.9,
+   "hash": "02170d1898378b34e3d1a71eb38dc88abd568b993391f5d0f9d827ce06b794d2"
+  }
+ ]
+}

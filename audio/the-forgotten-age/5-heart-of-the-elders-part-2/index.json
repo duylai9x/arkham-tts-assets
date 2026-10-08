@@ -1,0 +1,92 @@
+{
+ "campaign": "the-forgotten-age",
+ "scenario": "5-heart-of-the-elders-part-2",
+ "title": "Heart of the Elders Part 2",
+ "order": "5",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 56.6,
+   "hash": "1a401a255b21faecf8eb8a5f0bc5b8827d73c6c2208658ec37e9b24f04735517"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 45.5,
+   "hash": "e4333533e8ebb1ecc9391296523a4d73a268a465f616abf3e992940b9e3bd32e"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 28.8,
+   "hash": "29d7e6de67f9a18d96a39f4da41acc88f534e982df69949746fa8afcc4b2354e"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 33.1,
+   "hash": "80ef0aa3985688b732e05f9ee9346f9e2e9923a48fa77ba8fca0baa2c2c7d6f5"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 38.0,
+   "hash": "a662375adb6245c4fd7cdd43b4cd4baa6e254acd9ea19e1d57a2f86b8fb66315"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 44.5,
+   "hash": "e4760419ddda21167c5176ce4f67daa51024db7b47a2b7a3ec7b8d6da06c7c03"
+  },
+  {
+   "id": "act-1b",
+   "label": "ACT 1b",
+   "file": "act-1b.mp3",
+   "seconds": 40.7,
+   "hash": "05b7441e67d778911d9ce309a9ef1b10084637e68c1c87ed2cfdb1ef62056c90"
+  },
+  {
+   "id": "act-2a",
+   "label": "ACT 2a",
+   "file": "act-2a.mp3",
+   "seconds": 33.4,
+   "hash": "cae21d651f70b1e988a4299c97cdb0eafe0b77d8eaa6fe82decdaa005555d5bf"
+  },
+  {
+   "id": "act-2b",
+   "label": "ACT 2b",
+   "file": "act-2b.mp3",
+   "seconds": 41.0,
+   "hash": "8c7c8748de5b9c7c2b828988fe460412c0e0267ab1d1cd891a1692c4b6c260d8"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 72.5,
+   "hash": "178728413ecfcd6927b2c545f72aaee7fa62374828b5497a8096b7815620a2e8"
+  },
+  {
+   "id": "res-2",
+   "label": "RES 2",
+   "file": "res-2.mp3",
+   "seconds": 48.3,
+   "hash": "577394129bdc38bd166caf868ff9987b57f6ce4a8b44f00dde3ce2a4d58e851b"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "file": "res-none.mp3",
+   "seconds": 33.8,
+   "hash": "30527917a0b3ff3e07fe5b194f4b104eddbb967e73aa01ef72d86ed0d026e63b"
+  }
+ ]
+}

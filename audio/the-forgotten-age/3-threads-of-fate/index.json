@@ -1,0 +1,342 @@
+{
+ "campaign": "the-forgotten-age",
+ "scenario": "3-threads-of-fate",
+ "title": "Threads of Fate",
+ "order": "3",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 66.9,
+   "hash": "6fb7ee7f8021e41c86b916ce241a1f50d45d5b8bb3d87758458d60ecb07018ac"
+  },
+  {
+   "id": "int-1-2",
+   "label": "MỞ ĐẦU · 2",
+   "file": "int-1-2.mp3",
+   "seconds": 99.9,
+   "hash": "f0773cc6c64d86a381baa5048a9ba60dc4ee89ac710c3ac617920fdf6a7d85a0"
+  },
+  {
+   "id": "int-1-3",
+   "label": "MỞ ĐẦU · 3",
+   "file": "int-1-3.mp3",
+   "seconds": 70.6,
+   "hash": "66ef95219ee895d635ec95b7e55f36dac95dbaf3304b16bd1e796e9d407b8c3c"
+  },
+  {
+   "id": "int-1-4",
+   "label": "MỞ ĐẦU · 4",
+   "file": "int-1-4.mp3",
+   "seconds": 66.5,
+   "hash": "687f8fa32e74e26768a4e5f6285de5c420c86d2bc16d7805a6062f0199e07eb1"
+  },
+  {
+   "id": "int-1-5",
+   "label": "MỞ ĐẦU · 5",
+   "file": "int-1-5.mp3",
+   "seconds": 8.7,
+   "hash": "fbb2281425ece67a07a2a80bb49d2f3a843041ca75d22a635e352ae8f511e591"
+  },
+  {
+   "id": "int-1-6",
+   "label": "MỞ ĐẦU · 6",
+   "file": "int-1-6.mp3",
+   "seconds": 24.6,
+   "hash": "cbfb10f445320143124c52766cdc2d95568e6e1e848fd6ebd3ea6bd5bc5e5c1f"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 41.7,
+   "hash": "f23fbf9d97ad4d8a93967853a510fda350d0dd05f5f863c0b385c375a52e45ff"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 43.0,
+   "hash": "24a1cd9723c38f99459d514f3b8424492424d3c80af6bc5d45abe4eb224d4e44"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 44.2,
+   "hash": "29a24b043f1ab0380299ab45d6ad4d21139a9527482d36b0ea3652b9bde69b99"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 54.4,
+   "hash": "c0c786ac00d44ca6032e9a3b029fa671f0771c34f969582668f80620b952e094"
+  },
+  {
+   "id": "agd-3a",
+   "label": "AGD 3a",
+   "file": "agd-3a.mp3",
+   "seconds": 42.0,
+   "hash": "ee645f09838865144a68c14d0a04619f6fa88031ea1304e256b80deb0aae4a87"
+  },
+  {
+   "id": "agd-3b",
+   "label": "AGD 3b",
+   "file": "agd-3b.mp3",
+   "seconds": 38.2,
+   "hash": "5740a54a56fe53a0fecc67cf0a863bf6d715769159bffa6f99b01daa4c8f8454"
+  },
+  {
+   "id": "act-0a",
+   "label": "ACT 0a",
+   "file": "act-0a.mp3",
+   "seconds": 25.4,
+   "hash": "6d9fbb80244fb8f21338d21eff01e31861a6838317faae31be5a4392433069ae"
+  },
+  {
+   "id": "act-0b",
+   "label": "ACT 0b",
+   "file": "act-0b.mp3",
+   "seconds": 24.3,
+   "hash": "5fd89f8036155cf1d1bd08b4c74bce52cb16b31be250484411513aea9d9e0c83"
+  },
+  {
+   "id": "act-2a-04119",
+   "label": "ACT 2a ·04119",
+   "file": "act-2a-04119.mp3",
+   "seconds": 47.4,
+   "hash": "e6c2cba6f39bc6d006c8c74259773f80c062254dabb0467a990b515b9f420455"
+  },
+  {
+   "id": "act-2b-04119",
+   "label": "ACT 2b ·04119",
+   "file": "act-2b-04119.mp3",
+   "seconds": 51.5,
+   "hash": "bd39336719daeb4bf6bc929f8a9e1c0a51a928df14ddae218130286e524eac2f"
+  },
+  {
+   "id": "act-2a-04120",
+   "label": "ACT 2a ·04120",
+   "file": "act-2a-04120.mp3",
+   "seconds": 41.1,
+   "hash": "952760e89765abccc8bdfa8fa00b10500546b3804a257ae6dc2a6af29b7da2ce"
+  },
+  {
+   "id": "act-2b-04120",
+   "label": "ACT 2b ·04120",
+   "file": "act-2b-04120.mp3",
+   "seconds": 41.1,
+   "hash": "e02376ed32fdc0203a08757b77d99f7c207f9a5a42c9b70c68c5fee09af33604"
+  },
+  {
+   "id": "act-2a-04121",
+   "label": "ACT 2a ·04121",
+   "file": "act-2a-04121.mp3",
+   "seconds": 31.6,
+   "hash": "46ebc573e02fcd9774494979e2637649bf8684428e4f2f4512de938311f8a105"
+  },
+  {
+   "id": "act-2b-04121",
+   "label": "ACT 2b ·04121",
+   "file": "act-2b-04121.mp3",
+   "seconds": 51.2,
+   "hash": "3f8a1c524381cd14dc893ac9c5f53cbfd18cdf75c479c871869bc51d9c60edd1"
+  },
+  {
+   "id": "act-3a-04123",
+   "label": "ACT 3a ·04123",
+   "file": "act-3a-04123.mp3",
+   "seconds": 38.0,
+   "hash": "699c7c7fdfd5d253a99f1250095a5ee02cd599ad3939c6cabf353ee43a9ed09a"
+  },
+  {
+   "id": "act-3b-04123",
+   "label": "ACT 3b ·04123",
+   "file": "act-3b-04123.mp3",
+   "seconds": 41.6,
+   "hash": "678af4eb1632f8ed161c376f295fb6d8dcbdcc34ebc277687b28cb6d6e43dd45"
+  },
+  {
+   "id": "act-3a-04124",
+   "label": "ACT 3a ·04124",
+   "file": "act-3a-04124.mp3",
+   "seconds": 32.0,
+   "hash": "06df8de9a71621bd90b6a4ddbdefe6be2d793da898dcd489e7287f7ce0d2a33b"
+  },
+  {
+   "id": "act-3b-04124",
+   "label": "ACT 3b ·04124",
+   "file": "act-3b-04124.mp3",
+   "seconds": 21.1,
+   "hash": "fa60d9f36b26ca384513d1b9167c7f672dd7053fb2ff9c96aec26b8af449c5ec"
+  },
+  {
+   "id": "act2-1a",
+   "label": "ACT 1a",
+   "file": "act2-1a.mp3",
+   "seconds": 43.3,
+   "hash": "edcaea60380a122743ecd9f896e8c46411eb3185bb53223cd0ee5a6fe1718153"
+  },
+  {
+   "id": "act2-1b",
+   "label": "ACT 1b",
+   "file": "act2-1b.mp3",
+   "seconds": 38.8,
+   "hash": "a691dba9ef3d41ddee16a52d3ba15d0c6a376808eeb22c594d57050a72313754"
+  },
+  {
+   "id": "act2-2a-04127",
+   "label": "ACT 2a ·04127",
+   "file": "act2-2a-04127.mp3",
+   "seconds": 38.3,
+   "hash": "c94ed9eb501985743639b5924fb9ab72075264e59976f045d9057ef95964d6fe"
+  },
+  {
+   "id": "act2-2b-04127",
+   "label": "ACT 2b ·04127",
+   "file": "act2-2b-04127.mp3",
+   "seconds": 53.4,
+   "hash": "13873695340e2d6ea77bb2800a242c577f484d992563e1e6db43912862dc46f0"
+  },
+  {
+   "id": "act2-2a-04129",
+   "label": "ACT 2a ·04129",
+   "file": "act2-2a-04129.mp3",
+   "seconds": 39.4,
+   "hash": "47ac6bfb288ec66905178fba1cf87a290c25fbf367f8c67903a1cdf4be2bc21d"
+  },
+  {
+   "id": "act2-2b-04129",
+   "label": "ACT 2b ·04129",
+   "file": "act2-2b-04129.mp3",
+   "seconds": 62.6,
+   "hash": "5700392f8fd9488ae73f331a7a79d6e062e087ff5884b0af12bad167cd774b31"
+  },
+  {
+   "id": "act2-3a-04131",
+   "label": "ACT 3a ·04131",
+   "file": "act2-3a-04131.mp3",
+   "seconds": 28.5,
+   "hash": "5498d099499d975a55ffac884cc60c1df9b3ea4967dc3a52241478b9544bd63a"
+  },
+  {
+   "id": "act2-3b-04131",
+   "label": "ACT 3b ·04131",
+   "file": "act2-3b-04131.mp3",
+   "seconds": 41.0,
+   "hash": "6ad1db3f7f1f20af1a602f3ad85dc174e7223295159fae324c342f3e3e6d15d5"
+  },
+  {
+   "id": "act2-3a-04132",
+   "label": "ACT 3a ·04132",
+   "file": "act2-3a-04132.mp3",
+   "seconds": 55.3,
+   "hash": "d5b78bb72b160d80244f21e6a4b3616496f4e9a00dccf9b9cea4c87cdddc085b"
+  },
+  {
+   "id": "act2-3b-04132",
+   "label": "ACT 3b ·04132",
+   "file": "act2-3b-04132.mp3",
+   "seconds": 30.1,
+   "hash": "f1b935f9f0e872893b864264016c35e9e6ec29ee2839e5e4ee9f5c81d0f5b194"
+  },
+  {
+   "id": "act3-1a",
+   "label": "ACT 1a",
+   "file": "act3-1a.mp3",
+   "seconds": 35.8,
+   "hash": "8964ba00550571fab520fd1a818e9acccb3282898cc5a2f71d6f82288e612217"
+  },
+  {
+   "id": "act3-1b",
+   "label": "ACT 1b",
+   "file": "act3-1b.mp3",
+   "seconds": 37.6,
+   "hash": "f4450db9fdc638b840ed0367b9867fab04793c20f8408ae913386697cf5dfbdf"
+  },
+  {
+   "id": "act3-2a-04135",
+   "label": "ACT 2a ·04135",
+   "file": "act3-2a-04135.mp3",
+   "seconds": 34.7,
+   "hash": "b9e33b8eac8b2ccb3bd83619791754c5ea9b71d283a81716c8de37e5305cfbed"
+  },
+  {
+   "id": "act3-2b-04135",
+   "label": "ACT 2b ·04135",
+   "file": "act3-2b-04135.mp3",
+   "seconds": 62.0,
+   "hash": "7f1635a165552096514e79128eab0a0cb110b5149556aa576889fce1d62ba1a5"
+  },
+  {
+   "id": "act3-2a-04136",
+   "label": "ACT 2a ·04136",
+   "file": "act3-2a-04136.mp3",
+   "seconds": 36.4,
+   "hash": "7b6e90df2b5050eb3d755b567c857453dc41b6f9e025e684037503b3a28dfd6d"
+  },
+  {
+   "id": "act3-2b-04136",
+   "label": "ACT 2b ·04136",
+   "file": "act3-2b-04136.mp3",
+   "seconds": 57.7,
+   "hash": "3b037a5b984f80ea9116c2fc45cd4e8b932263c537b27d9b3015178f4b0e4f9f"
+  },
+  {
+   "id": "act3-2a-04138",
+   "label": "ACT 2a ·04138",
+   "file": "act3-2a-04138.mp3",
+   "seconds": 36.0,
+   "hash": "35a3775674f07b9c60f88165de9aacd6cba22304bcacd7b8c47ed50b8bf7160e"
+  },
+  {
+   "id": "act3-2b-04138",
+   "label": "ACT 2b ·04138",
+   "file": "act3-2b-04138.mp3",
+   "seconds": 50.1,
+   "hash": "fc3fa90db077f56da0dacc616ec517d25b9cac330f003a5000879160473252af"
+  },
+  {
+   "id": "act3-3a-04139",
+   "label": "ACT 3a ·04139",
+   "file": "act3-3a-04139.mp3",
+   "seconds": 51.2,
+   "hash": "9631697ea44bbdeb9609390222bcac9e7c70d5f343098fbc8e60fa566e97ae4a"
+  },
+  {
+   "id": "act3-3b-04139",
+   "label": "ACT 3b ·04139",
+   "file": "act3-3b-04139.mp3",
+   "seconds": 61.3,
+   "hash": "6f06186941b1e58c843cc75d058a7f47d621490def9991094cfb7bd2aeb5f414"
+  },
+  {
+   "id": "act3-3a-04140",
+   "label": "ACT 3a ·04140",
+   "file": "act3-3a-04140.mp3",
+   "seconds": 56.9,
+   "hash": "24dbce52ff2bf10cd6b4b8a49433bf561357b716d0204b12a818ea69d20737a4"
+  },
+  {
+   "id": "act3-3b-04140",
+   "label": "ACT 3b ·04140",
+   "file": "act3-3b-04140.mp3",
+   "seconds": 71.5,
+   "hash": "6371cb3c94f3f4f82eb489458764c8a4d14c8227baa0f9197c5a17a6bb7256e6"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 77.0,
+   "hash": "d703c6b4db78b8da483d3c544a3cfa670e505ad5f833075c72b931cfd30b9a2c"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "alias": "res-1"
+  }
+ ]
+}
