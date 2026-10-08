@@ -1,0 +1,57 @@
+{
+ "campaign": "the-dunwich-legacy",
+ "scenario": "dunwich-interlude-2",
+ "title": "Interlude II: The Survivors",
+ "order": "4b",
+ "clips": [
+  {
+   "id": "int-0",
+   "label": "MỞ ĐẦU",
+   "file": "int-0.mp3",
+   "seconds": 26.0,
+   "hash": "60a597bab20290350e17dd4933fe74e374e216f429509178f7d307b6a84a62b0"
+  },
+  {
+   "id": "surv-armitage",
+   "label": "ARMITAGE",
+   "file": "surv-armitage.mp3",
+   "seconds": 33.9,
+   "hash": "d29d2c02d36e0aaf4f5a7fa542539c6dd9ca3b14716402448ab20fe5adf54cdb"
+  },
+  {
+   "id": "surv-rice",
+   "label": "RICE",
+   "file": "surv-rice.mp3",
+   "seconds": 27.5,
+   "hash": "4d52d1d2c64bd2cbfff688d31ffc25e726b4c896103659ec40f3ca38c7f7c98a"
+  },
+  {
+   "id": "surv-morgan",
+   "label": "MORGAN",
+   "file": "surv-morgan.mp3",
+   "seconds": 24.2,
+   "hash": "dc4ececfef1a268a0540694991f318d1aac1e855432c6c443533c9597422fe58"
+  },
+  {
+   "id": "surv-zebulon",
+   "label": "ZEBULON",
+   "file": "surv-zebulon.mp3",
+   "seconds": 28.0,
+   "hash": "8a2d69a3583ce26f19fd9861aea4cbeb86c6e6d2b622193c5ebe1523bd70fed4"
+  },
+  {
+   "id": "surv-earl",
+   "label": "EARL",
+   "file": "surv-earl.mp3",
+   "seconds": 18.1,
+   "hash": "82b53cfa7b8b93b8b05301b0d2b97e925d0bdd985112c93d300f874009f22af1"
+  },
+  {
+   "id": "go-v",
+   "label": "ĐI TIẾP",
+   "file": "go-v.mp3",
+   "seconds": 11.1,
+   "hash": "cbeab3670f968f34f19c91115bfa0ca5c8e1397b295d944c0a958f1730356102"
+  }
+ ]
+}

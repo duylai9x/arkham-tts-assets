@@ -1,0 +1,462 @@
+[
+ {
+  "name": "The Dunwich Legacy",
+  "scenarios": [
+   {
+    "name": "Blood on the Altar",
+    "clips": [
+     {
+      "label": "MỞ ĐẦU",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/int-1.mp3",
+      "title": "Blood on the Altar · MỞ ĐẦU"
+     },
+     {
+      "label": "MỞ ĐẦU · P1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/int-1-p1.mp3",
+      "title": "Blood on the Altar · MỞ ĐẦU · P1"
+     },
+     {
+      "label": "AGD 1a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/agd-1a.mp3",
+      "title": "Blood on the Altar · AGD 1a"
+     },
+     {
+      "label": "AGD 1b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/agd-1b.mp3",
+      "title": "Blood on the Altar · AGD 1b"
+     },
+     {
+      "label": "AGD 2a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/agd-2a.mp3",
+      "title": "Blood on the Altar · AGD 2a"
+     },
+     {
+      "label": "AGD 2b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/agd-2b.mp3",
+      "title": "Blood on the Altar · AGD 2b"
+     },
+     {
+      "label": "AGD 3a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/agd-3a.mp3",
+      "title": "Blood on the Altar · AGD 3a"
+     },
+     {
+      "label": "AGD 3b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/agd-3b.mp3",
+      "title": "Blood on the Altar · AGD 3b"
+     },
+     {
+      "label": "ACT 1a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/act-1a.mp3",
+      "title": "Blood on the Altar · ACT 1a"
+     },
+     {
+      "label": "ACT 1b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/act-1b.mp3",
+      "title": "Blood on the Altar · ACT 1b"
+     },
+     {
+      "label": "ACT 2a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/act-2a.mp3",
+      "title": "Blood on the Altar · ACT 2a"
+     },
+     {
+      "label": "ACT 2b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/act-2b.mp3",
+      "title": "Blood on the Altar · ACT 2b"
+     },
+     {
+      "label": "RES 1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/res-1.mp3",
+      "title": "Blood on the Altar · RES 1"
+     },
+     {
+      "label": "RES 2",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/res-2.mp3",
+      "title": "Blood on the Altar · RES 2"
+     },
+     {
+      "label": "RES 3",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/res-3.mp3",
+      "title": "Blood on the Altar · RES 3"
+     },
+     {
+      "label": "RES 0",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/4-blood-on-the-altar/res-none.mp3",
+      "title": "Blood on the Altar · RES 0"
+     }
+    ]
+   },
+   {
+    "name": "Interlude II: The Survivors",
+    "clips": [
+     {
+      "label": "MỞ ĐẦU",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/dunwich-interlude-2/int-0.mp3",
+      "title": "Interlude II: The Survivors · MỞ ĐẦU"
+     },
+     {
+      "label": "ARMITAGE",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/dunwich-interlude-2/surv-armitage.mp3",
+      "title": "Interlude II: The Survivors · ARMITAGE"
+     },
+     {
+      "label": "RICE",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/dunwich-interlude-2/surv-rice.mp3",
+      "title": "Interlude II: The Survivors · RICE"
+     },
+     {
+      "label": "MORGAN",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/dunwich-interlude-2/surv-morgan.mp3",
+      "title": "Interlude II: The Survivors · MORGAN"
+     },
+     {
+      "label": "ZEBULON",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/dunwich-interlude-2/surv-zebulon.mp3",
+      "title": "Interlude II: The Survivors · ZEBULON"
+     },
+     {
+      "label": "EARL",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/dunwich-interlude-2/surv-earl.mp3",
+      "title": "Interlude II: The Survivors · EARL"
+     },
+     {
+      "label": "ĐI TIẾP",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/dunwich-interlude-2/go-v.mp3",
+      "title": "Interlude II: The Survivors · ĐI TIẾP"
+     }
+    ]
+   },
+   {
+    "name": "Undimensioned and Unseen",
+    "clips": [
+     {
+      "label": "MỞ ĐẦU",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/int-1.mp3",
+      "title": "Undimensioned and Unseen · MỞ ĐẦU"
+     },
+     {
+      "label": "MỞ ĐẦU · P1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/int-1-p1.mp3",
+      "title": "Undimensioned and Unseen · MỞ ĐẦU · P1"
+     },
+     {
+      "label": "MỞ ĐẦU · P2",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/int-1-p2.mp3",
+      "title": "Undimensioned and Unseen · MỞ ĐẦU · P2"
+     },
+     {
+      "label": "AGD 1a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/agd-1a.mp3",
+      "title": "Undimensioned and Unseen · AGD 1a"
+     },
+     {
+      "label": "AGD 1b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/agd-1b.mp3",
+      "title": "Undimensioned and Unseen · AGD 1b"
+     },
+     {
+      "label": "AGD 2a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/agd-2a.mp3",
+      "title": "Undimensioned and Unseen · AGD 2a"
+     },
+     {
+      "label": "AGD 2b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/agd-2b.mp3",
+      "title": "Undimensioned and Unseen · AGD 2b"
+     },
+     {
+      "label": "AGD 3a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/agd-3a.mp3",
+      "title": "Undimensioned and Unseen · AGD 3a"
+     },
+     {
+      "label": "AGD 3b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/agd-3b.mp3",
+      "title": "Undimensioned and Unseen · AGD 3b"
+     },
+     {
+      "label": "ACT 1a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/act-1a.mp3",
+      "title": "Undimensioned and Unseen · ACT 1a"
+     },
+     {
+      "label": "ACT 1b · ARMITAGE",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/act-1b-armitage.mp3",
+      "title": "Undimensioned and Unseen · ACT 1b · ARMITAGE"
+     },
+     {
+      "label": "ACT 1b · NO-ARMITAGE",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/act-1b-no-armitage.mp3",
+      "title": "Undimensioned and Unseen · ACT 1b · NO-ARMITAGE"
+     },
+     {
+      "label": "ACT 2a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/act-2a.mp3",
+      "title": "Undimensioned and Unseen · ACT 2a"
+     },
+     {
+      "label": "ACT 2b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/act-2b.mp3",
+      "title": "Undimensioned and Unseen · ACT 2b"
+     },
+     {
+      "label": "RES 1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/res-1.mp3",
+      "title": "Undimensioned and Unseen · RES 1"
+     },
+     {
+      "label": "RES 2",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/res-2.mp3",
+      "title": "Undimensioned and Unseen · RES 2"
+     },
+     {
+      "label": "RES 0",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/5-undimensioned-and-unseen/res-1.mp3",
+      "title": "Undimensioned and Unseen · RES 0"
+     }
+    ]
+   },
+   {
+    "name": "Where Doom Awaits",
+    "clips": [
+     {
+      "label": "MỞ ĐẦU",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/int-1.mp3",
+      "title": "Where Doom Awaits · MỞ ĐẦU"
+     },
+     {
+      "label": "MỞ ĐẦU · P1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/int-1-p1.mp3",
+      "title": "Where Doom Awaits · MỞ ĐẦU · P1"
+     },
+     {
+      "label": "AGD 1a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/agd-1a.mp3",
+      "title": "Where Doom Awaits · AGD 1a"
+     },
+     {
+      "label": "AGD 1b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/agd-1b.mp3",
+      "title": "Where Doom Awaits · AGD 1b"
+     },
+     {
+      "label": "AGD 2a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/agd-2a.mp3",
+      "title": "Where Doom Awaits · AGD 2a"
+     },
+     {
+      "label": "AGD 2b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/agd-2b.mp3",
+      "title": "Where Doom Awaits · AGD 2b"
+     },
+     {
+      "label": "ACT 1a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-1a.mp3",
+      "title": "Where Doom Awaits · ACT 1a"
+     },
+     {
+      "label": "ACT 1b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-1b.mp3",
+      "title": "Where Doom Awaits · ACT 1b"
+     },
+     {
+      "label": "ACT 2a ·02278",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-2a-02278.mp3",
+      "title": "Where Doom Awaits · ACT 2a ·02278"
+     },
+     {
+      "label": "ACT 2b ·02278",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-2b-02278.mp3",
+      "title": "Where Doom Awaits · ACT 2b ·02278"
+     },
+     {
+      "label": "ACT 2a ·02279",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-2a-02279.mp3",
+      "title": "Where Doom Awaits · ACT 2a ·02279"
+     },
+     {
+      "label": "ACT 2b ·02279",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-2b-02279.mp3",
+      "title": "Where Doom Awaits · ACT 2b ·02279"
+     },
+     {
+      "label": "ACT 2a ·02280",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-2a-02280.mp3",
+      "title": "Where Doom Awaits · ACT 2a ·02280"
+     },
+     {
+      "label": "ACT 2b ·02280",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-2b-02280.mp3",
+      "title": "Where Doom Awaits · ACT 2b ·02280"
+     },
+     {
+      "label": "ACT 3a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-3a.mp3",
+      "title": "Where Doom Awaits · ACT 3a"
+     },
+     {
+      "label": "ACT 3b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/act-3b.mp3",
+      "title": "Where Doom Awaits · ACT 3b"
+     },
+     {
+      "label": "RES 1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/res-1.mp3",
+      "title": "Where Doom Awaits · RES 1"
+     },
+     {
+      "label": "RES 2",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/res-2.mp3",
+      "title": "Where Doom Awaits · RES 2"
+     },
+     {
+      "label": "RES 0",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/6-where-doom-awaits/res-2.mp3",
+      "title": "Where Doom Awaits · RES 0"
+     }
+    ]
+   },
+   {
+    "name": "Lost in Time and Space",
+    "clips": [
+     {
+      "label": "MỞ ĐẦU",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/int-1.mp3",
+      "title": "Lost in Time and Space · MỞ ĐẦU"
+     },
+     {
+      "label": "AGD 1a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-1a.mp3",
+      "title": "Lost in Time and Space · AGD 1a"
+     },
+     {
+      "label": "AGD 1b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-1b.mp3",
+      "title": "Lost in Time and Space · AGD 1b"
+     },
+     {
+      "label": "AGD 1b · P1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-1b-p1.mp3",
+      "title": "Lost in Time and Space · AGD 1b · P1"
+     },
+     {
+      "label": "AGD 2a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-2a.mp3",
+      "title": "Lost in Time and Space · AGD 2a"
+     },
+     {
+      "label": "AGD 2b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-2b.mp3",
+      "title": "Lost in Time and Space · AGD 2b"
+     },
+     {
+      "label": "AGD 2b · P1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-2b-p1.mp3",
+      "title": "Lost in Time and Space · AGD 2b · P1"
+     },
+     {
+      "label": "AGD 3a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-3a.mp3",
+      "title": "Lost in Time and Space · AGD 3a"
+     },
+     {
+      "label": "AGD 3b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-3b.mp3",
+      "title": "Lost in Time and Space · AGD 3b"
+     },
+     {
+      "label": "AGD 4a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-4a.mp3",
+      "title": "Lost in Time and Space · AGD 4a"
+     },
+     {
+      "label": "AGD 4b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/agd-4b.mp3",
+      "title": "Lost in Time and Space · AGD 4b"
+     },
+     {
+      "label": "ACT 1a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/act-1a.mp3",
+      "title": "Lost in Time and Space · ACT 1a"
+     },
+     {
+      "label": "ACT 1b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/act-1b.mp3",
+      "title": "Lost in Time and Space · ACT 1b"
+     },
+     {
+      "label": "ACT 2a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/act-2a.mp3",
+      "title": "Lost in Time and Space · ACT 2a"
+     },
+     {
+      "label": "ACT 2b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/act-2b.mp3",
+      "title": "Lost in Time and Space · ACT 2b"
+     },
+     {
+      "label": "ACT 3a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/act-3a.mp3",
+      "title": "Lost in Time and Space · ACT 3a"
+     },
+     {
+      "label": "ACT 3b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/act-3b.mp3",
+      "title": "Lost in Time and Space · ACT 3b"
+     },
+     {
+      "label": "ACT 4a",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/act-4a.mp3",
+      "title": "Lost in Time and Space · ACT 4a"
+     },
+     {
+      "label": "ACT 4b",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/act-4b.mp3",
+      "title": "Lost in Time and Space · ACT 4b"
+     },
+     {
+      "label": "RES 1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/res-1.mp3",
+      "title": "Lost in Time and Space · RES 1"
+     },
+     {
+      "label": "RES 1 · P1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/res-1-p1.mp3",
+      "title": "Lost in Time and Space · RES 1 · P1"
+     },
+     {
+      "label": "RES 2",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/res-2.mp3",
+      "title": "Lost in Time and Space · RES 2"
+     },
+     {
+      "label": "RES 3",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/res-3.mp3",
+      "title": "Lost in Time and Space · RES 3"
+     },
+     {
+      "label": "RES 3 · P1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/res-3-p1.mp3",
+      "title": "Lost in Time and Space · RES 3 · P1"
+     },
+     {
+      "label": "RES 4",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/res-4.mp3",
+      "title": "Lost in Time and Space · RES 4"
+     },
+     {
+      "label": "HẬU KÝ · P1",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/epilogue-p1.mp3",
+      "title": "Lost in Time and Space · HẬU KÝ · P1"
+     },
+     {
+      "label": "HẬU KÝ · P2",
+      "url": "https://raw.githubusercontent.com/duylai9x/arkham-tts-assets/main/audio/the-dunwich-legacy/7-lost-in-time-and-space/epilogue-p2.mp3",
+      "title": "Lost in Time and Space · HẬU KÝ · P2"
+     }
+    ]
+   }
+  ]
+ }
+]

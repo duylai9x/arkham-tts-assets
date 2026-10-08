@@ -1,0 +1,139 @@
+{
+ "campaign": "the-dunwich-legacy",
+ "scenario": "6-where-doom-awaits",
+ "title": "Where Doom Awaits",
+ "order": "6",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 76.4,
+   "hash": "4a1c1486ac07c65dfee6870d42eaf8603f1cf87e22f5cc156f264cfffe209115"
+  },
+  {
+   "id": "int-1-p1",
+   "label": "MỞ ĐẦU · P1",
+   "file": "int-1-p1.mp3",
+   "seconds": 72.4,
+   "hash": "aa0dc162b2c3c8a45361814b6bbd9e92cf38e0443b46d408cbbc35d301f9f4b3"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 22.0,
+   "hash": "1af6fa67346d450ef92dc419cf585c67931839440c52a59878dd753605e2eaef"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 29.2,
+   "hash": "7baf13317b4006d2b56900a257ad08ba5e8ac10ea58bd1d4fdbdfc0972edef4c"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 60.6,
+   "hash": "9314ef10388ed363640cfc17537d05234eafc7ce6dc9277a1ae431391fb621b4"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 38.1,
+   "hash": "2632dd46e366517a44d9bda18cf2441245a8f7b93193528fd254d7ca6c674e73"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 26.8,
+   "hash": "34602de3ca9eb23b6ab645ccee851b77f044c9a33a940be6e58dccc6f473f87f"
+  },
+  {
+   "id": "act-1b",
+   "label": "ACT 1b",
+   "file": "act-1b.mp3",
+   "seconds": 41.3,
+   "hash": "53b824a2dd8cccc29244346c72ed32e972c59fc8d6c0c09ab09be59e8ee251b8"
+  },
+  {
+   "id": "act-2a-02278",
+   "label": "ACT 2a ·02278",
+   "file": "act-2a-02278.mp3",
+   "seconds": 25.2,
+   "hash": "ecd4a34352ac28f154785a5868cc8cf02a7728aac892615e10b94a6c5d71e56f"
+  },
+  {
+   "id": "act-2b-02278",
+   "label": "ACT 2b ·02278",
+   "file": "act-2b-02278.mp3",
+   "seconds": 62.0,
+   "hash": "6a4a1209c022f9b2a4644bd26b400131050d68f676b5bcb38a972afac6a39c23"
+  },
+  {
+   "id": "act-2a-02279",
+   "label": "ACT 2a ·02279",
+   "file": "act-2a-02279.mp3",
+   "seconds": 28.9,
+   "hash": "4d36e27918f89f866732bbf4debfd61175fbad42c08148e47fbde2c1b3889438"
+  },
+  {
+   "id": "act-2b-02279",
+   "label": "ACT 2b ·02279",
+   "file": "act-2b-02279.mp3",
+   "seconds": 55.4,
+   "hash": "ef309c56092ffeac96f45b29b893d9ef597e3dc132f970cd786e74dce667d5f8"
+  },
+  {
+   "id": "act-2a-02280",
+   "label": "ACT 2a ·02280",
+   "file": "act-2a-02280.mp3",
+   "seconds": 25.9,
+   "hash": "c3c9869d521ebf3c9d71eadfcc319f7cf21c2eddbf160bb3d0314260402dfb34"
+  },
+  {
+   "id": "act-2b-02280",
+   "label": "ACT 2b ·02280",
+   "file": "act-2b-02280.mp3",
+   "seconds": 53.7,
+   "hash": "6f61d750edc679eece576609498029ea974e948bab3676dfbc00fb17777044f7"
+  },
+  {
+   "id": "act-3a",
+   "label": "ACT 3a",
+   "file": "act-3a.mp3",
+   "seconds": 24.2,
+   "hash": "93334784e36da4a224cefb917e7a696b844d0cccee5b6320f614fa11cefb18a6"
+  },
+  {
+   "id": "act-3b",
+   "label": "ACT 3b",
+   "file": "act-3b.mp3",
+   "seconds": 19.3,
+   "hash": "095f1de5fbc7cd634ceaf8d4f614d8e079a2ce5f85f66d4c35e579c79de7258b"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 26.6,
+   "hash": "8bd3bca3fbe07ec25bc684644f6f03007877634d22d75d88ea5045bbca73cb5c"
+  },
+  {
+   "id": "res-2",
+   "label": "RES 2",
+   "file": "res-2.mp3",
+   "seconds": 35.8,
+   "hash": "b268426c2005411565144b027c36f6fd616c541df8b957fc56e86255c95cbfc6"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "alias": "res-2"
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "campaign": "the-dunwich-legacy",
+ "scenario": "7-lost-in-time-and-space",
+ "title": "Lost in Time and Space",
+ "order": "7",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 44.1,
+   "hash": "9dd5dfae54d46df697b7caec3c1f283e5a6e7bfa23d200afd2dd1fcfa24bb2d6"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 23.1,
+   "hash": "1959c7b643d458c24b05c73cf147d743828e98263b4a9b91881ddab21e67f4c8"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 11.5,
+   "hash": "7ac0bb6509443d4c0290defda7a616260b54b95fecca555ac505b68fa2127ac6"
+  },
+  {
+   "id": "agd-1b-p1",
+   "label": "AGD 1b · P1",
+   "file": "agd-1b-p1.mp3",
+   "seconds": 26.7,
+   "hash": "56f789898938b0adcb4267f6b8269118b4fff1600fc9042941e599cb85c5ee07"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 19.7,
+   "hash": "a99878f52978272a4b5be74b4a20de64140183c37f76e67313f8bfc37d3e3fb7"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 10.1,
+   "hash": "b8ac7819bb65015208315dfd707485f2d14752a306cd02e780a386352ace70f3"
+  },
+  {
+   "id": "agd-2b-p1",
+   "label": "AGD 2b · P1",
+   "file": "agd-2b-p1.mp3",
+   "seconds": 31.2,
+   "hash": "e124aaac8b3433d0776470724e164757e3c3870381093509d256f8787d46f515"
+  },
+  {
+   "id": "agd-3a",
+   "label": "AGD 3a",
+   "file": "agd-3a.mp3",
+   "seconds": 18.9,
+   "hash": "92c6d81225516c31a9350d3392fcc229f82a3753fd405a57442a7cbb2e243475"
+  },
+  {
+   "id": "agd-3b",
+   "label": "AGD 3b",
+   "file": "agd-3b.mp3",
+   "seconds": 18.2,
+   "hash": "dc1ee49c4026440a7c3486aba5f47c87fc11e42f4ce46ef8c7fb7d8d74f9c375"
+  },
+  {
+   "id": "agd-4a",
+   "label": "AGD 4a",
+   "file": "agd-4a.mp3",
+   "seconds": 16.9,
+   "hash": "3cbe4c08a05295228b5cc249559355d150ca52a178d56ac60b6563dbc6f616fe"
+  },
+  {
+   "id": "agd-4b",
+   "label": "AGD 4b",
+   "file": "agd-4b.mp3",
+   "seconds": 15.2,
+   "hash": "1ab3594ac43be5cf0c249d90adfefd1d52f6b99fba9abaf591d2db1850962d7a"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 23.0,
+   "hash": "cd8408d04ed0fa94d7877e8ff20089c4443e688a283ff9290758df3135ccba3c"
+  },
+  {
+   "id": "act-1b",
+   "label": "ACT 1b",
+   "file": "act-1b.mp3",
+   "seconds": 23.3,
+   "hash": "6551f3af9eaadf6aa2b63f4bad5847304bd877fbfdd569b594c95b92acd1de94"
+  },
+  {
+   "id": "act-2a",
+   "label": "ACT 2a",
+   "file": "act-2a.mp3",
+   "seconds": 20.7,
+   "hash": "64bd5c7f531791282fce5bcfbeebe256c5a2d9f6c5e3444ceac8e88c5cfbd8df"
+  },
+  {
+   "id": "act-2b",
+   "label": "ACT 2b",
+   "file": "act-2b.mp3",
+   "seconds": 26.0,
+   "hash": "7cc591f37181d79bb279225208fa67300f8ac72ff526bd52ebcdbcb9258b17d8"
+  },
+  {
+   "id": "act-3a",
+   "label": "ACT 3a",
+   "file": "act-3a.mp3",
+   "seconds": 19.6,
+   "hash": "cb7765fd49dc6862550f71a6b8f9b6fce2428b83ca887fb17e1579c9acdf81f0"
+  },
+  {
+   "id": "act-3b",
+   "label": "ACT 3b",
+   "file": "act-3b.mp3",
+   "seconds": 35.4,
+   "hash": "5e0d8feea2862ef2b7889f908b07af6d1ac1ff492157395326f3c552ca0ad29d"
+  },
+  {
+   "id": "act-4a",
+   "label": "ACT 4a",
+   "file": "act-4a.mp3",
+   "seconds": 14.3,
+   "hash": "41924dda5c1d37411aabd2c407bdb2ba4dcce9c47b4168edc4a8ef1855f3f0b6"
+  },
+  {
+   "id": "act-4b",
+   "label": "ACT 4b",
+   "file": "act-4b.mp3",
+   "seconds": 36.1,
+   "hash": "8336a879188e9d8bf15612e5f64cc0f74d739ad4d5e15c3572e32f3367486e26"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 44.5,
+   "hash": "eb46e51c96db2dabd89737e5a8ba87be36dd71630f75a5108f92bcbb0e045363"
+  },
+  {
+   "id": "res-1-p1",
+   "label": "RES 1 · P1",
+   "file": "res-1-p1.mp3",
+   "seconds": 24.8,
+   "hash": "a34c54f0b9e5a931828d998e4850d1efb5cdea5268fbe03a87b2eae1cd311a23"
+  },
+  {
+   "id": "res-2",
+   "label": "RES 2",
+   "file": "res-2.mp3",
+   "seconds": 81.6,
+   "hash": "733fe161bc164c3ace20592b7e101042a3d650a6921e740944a47faca4a479bd"
+  },
+  {
+   "id": "res-3",
+   "label": "RES 3",
+   "file": "res-3.mp3",
+   "seconds": 27.8,
+   "hash": "3438764fef1aaf28f91bbc008413b92ee7fd6941340bfb1d429bbd6f20fd40a3"
+  },
+  {
+   "id": "res-3-p1",
+   "label": "RES 3 · P1",
+   "file": "res-3-p1.mp3",
+   "seconds": 24.8,
+   "hash": "0e74ff91af888d0dadfe4cd5ea30b8f595e386fd183fb2f02d72de4823e24e1b"
+  },
+  {
+   "id": "res-4",
+   "label": "RES 4",
+   "file": "res-4.mp3",
+   "seconds": 60.7,
+   "hash": "170c9045c1014f040a1b01bf472580fda0791957f3238c7675f2be18201ef521"
+  },
+  {
+   "id": "epilogue-p1",
+   "label": "HẬU KÝ · P1",
+   "file": "epilogue-p1.mp3",
+   "seconds": 61.8,
+   "hash": "3af5aecec89a6e7bd1e5969a143e99036e74c93df3b3796346a6962ebcb287cf"
+  },
+  {
+   "id": "epilogue-p2",
+   "label": "HẬU KÝ · P2",
+   "file": "epilogue-p2.mp3",
+   "seconds": 70.7,
+   "hash": "db2af00a2efa8ae03bf6ec933161fb8148ad97fb0da931f74b726171d40bb02e"
+  }
+ ]
+}

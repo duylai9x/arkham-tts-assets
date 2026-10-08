@@ -1,0 +1,125 @@
+{
+ "campaign": "the-dunwich-legacy",
+ "scenario": "5-undimensioned-and-unseen",
+ "title": "Undimensioned and Unseen",
+ "order": "5",
+ "clips": [
+  {
+   "id": "int-1",
+   "label": "MỞ ĐẦU",
+   "file": "int-1.mp3",
+   "seconds": 90.1,
+   "hash": "149f875b320f8a924bb509ad13feeb570e7f5cad9f3bec744207bca1a33c6e80"
+  },
+  {
+   "id": "int-1-p1",
+   "label": "MỞ ĐẦU · P1",
+   "file": "int-1-p1.mp3",
+   "seconds": 43.8,
+   "hash": "c049b983c09d1cb979d733cbd6ffdd29bbb995d5f547565d99c63db234a18363"
+  },
+  {
+   "id": "int-1-p2",
+   "label": "MỞ ĐẦU · P2",
+   "file": "int-1-p2.mp3",
+   "seconds": 42.6,
+   "hash": "dd82a9924fe174c9fe862294064ecdfb849eac03a54d402c390a7f5cca251209"
+  },
+  {
+   "id": "agd-1a",
+   "label": "AGD 1a",
+   "file": "agd-1a.mp3",
+   "seconds": 24.0,
+   "hash": "7494e471e7d4d880ecdff0869db3a1e77ed5e53319fb9e6f45b632c123ad5cd4"
+  },
+  {
+   "id": "agd-1b",
+   "label": "AGD 1b",
+   "file": "agd-1b.mp3",
+   "seconds": 30.5,
+   "hash": "267568bbca823c8807c5615b12781f385384579efde2d0abb461785874494234"
+  },
+  {
+   "id": "agd-2a",
+   "label": "AGD 2a",
+   "file": "agd-2a.mp3",
+   "seconds": 30.8,
+   "hash": "0997552b96400291322f8cd984139c46740473f6b0547a2018d3278e671571fe"
+  },
+  {
+   "id": "agd-2b",
+   "label": "AGD 2b",
+   "file": "agd-2b.mp3",
+   "seconds": 30.8,
+   "hash": "7b19dec8112bfd087262c8203070b591b2a577d0e94b4bf43742d466eb67f86a"
+  },
+  {
+   "id": "agd-3a",
+   "label": "AGD 3a",
+   "file": "agd-3a.mp3",
+   "seconds": 19.0,
+   "hash": "70913898055e56bd5d112debb425d476d1c61c172dc650c54e5689627c72c42c"
+  },
+  {
+   "id": "agd-3b",
+   "label": "AGD 3b",
+   "file": "agd-3b.mp3",
+   "seconds": 26.2,
+   "hash": "f1992688ea8b234dbd2e3a63138226c4cddd04a9c2f4a9107580c48e1c8e2e2f"
+  },
+  {
+   "id": "act-1a",
+   "label": "ACT 1a",
+   "file": "act-1a.mp3",
+   "seconds": 25.3,
+   "hash": "6947f4e1c3d2ea030d0a55d657cadcb76a8151105550a2cf16495a4527edbb51"
+  },
+  {
+   "id": "act-1b-armitage",
+   "label": "ACT 1b · ARMITAGE",
+   "file": "act-1b-armitage.mp3",
+   "seconds": 31.2,
+   "hash": "214eb545962ead2379b74e4cdedb34f4249d4d9333cf93a5a090930be0fbf0de"
+  },
+  {
+   "id": "act-1b-no-armitage",
+   "label": "ACT 1b · NO-ARMITAGE",
+   "file": "act-1b-no-armitage.mp3",
+   "seconds": 26.5,
+   "hash": "42fa174825ebca5be8fc8e4c2f928c91a884f1fb7caad28d82f24a2567f7b338"
+  },
+  {
+   "id": "act-2a",
+   "label": "ACT 2a",
+   "file": "act-2a.mp3",
+   "seconds": 24.4,
+   "hash": "d3b6bff7651e602990719684c7a8764466128d53f614d653036f610260231bdf"
+  },
+  {
+   "id": "act-2b",
+   "label": "ACT 2b",
+   "file": "act-2b.mp3",
+   "seconds": 27.2,
+   "hash": "0761f6d8e15ec379b4ee9ab316a371f553fd81b65f1a642e01ca96f3cc2fe61f"
+  },
+  {
+   "id": "res-1",
+   "label": "RES 1",
+   "file": "res-1.mp3",
+   "seconds": 12.1,
+   "hash": "8950b24513f8e47dd6340ff416a82eb3802523d575af2850fc91342bf15087cc"
+  },
+  {
+   "id": "res-2",
+   "label": "RES 2",
+   "file": "res-2.mp3",
+   "seconds": 7.8,
+   "hash": "0e6f5ec10273e2df0f792c6e99bdfafc089fbc27eb2be09bcb55c11744a0085f"
+  },
+  {
+   "id": "res-none",
+   "label": "RES 0",
+   "alias": "res-1"
+  }
+ ]
+}
